@@ -1,0 +1,16 @@
+div.catelog {
+  text-align: center;
+}
+div.catelog > a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 12px 16px;
+  width: 40px;
+  font-weight: bold;
+}
+div.catelog > a:hover {
+  background-color: hsl(140, 90%, 55%);
+}
+div.catelog > a.active {
+  background-color: hsl(140, 90%, 55%);
+}
