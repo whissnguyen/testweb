@@ -1,4 +1,4 @@
-div.catelog {
+/* div.catelog {
   text-align: center;
 }
 div.catelog > a {
@@ -13,4 +13,7 @@ div.catelog > a:hover {
 }
 div.catelog > a.active {
   background-color: hsl(140, 90%, 55%);
+} */
+p:first-child {
+  color: bisque;
 }
